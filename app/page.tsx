@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-6">
-      <h1 className="text-6xl font-extrabold tracking-[0.4em] text-white drop-shadow-[0_0_18px_rgba(255,255,255,0.9)]">
+      <h1 className="michroma.className text-6xl font-extrabold tracking-[0.4em] text-white drop-shadow-[0_0_18px_rgba(255,255,255,0.9)]">
         HAZI
       </h1>
 
