@@ -47,7 +47,9 @@ export default function Hero() {
             Book Appointment
           </button>
 
-          <button className="rounded-full border border-white/20 px-8 py-4 transition hover:border-white hover:bg-white hover:text-black">
+          <button 
+            href="#services"
+            className="rounded-full border border-white/20 px-8 py-4 transition hover:border-white hover:bg-white hover:text-black">
             Explore Services
           </button>
 
